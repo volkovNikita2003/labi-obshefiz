@@ -1,0 +1,16 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Мир формул}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Дроби}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Скобки}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Индексы}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Стандартные функции}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Функции покрупнее}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Символы}{3}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Диакритические знаки}{4}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Буквы других алфавитов и математические шрифты}{5}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Матрицы}{5}{subsection.1.9}%
+\contentsline {section}{\numberline {2}Группировка формул}{5}{section.2}%
+\contentsline {section}{\numberline {3}Картинки}{6}{section.3}%
+\contentsline {section}{\numberline {4}Таблицы}{8}{section.4}%
+\contentsline {section}{\numberline {5}Картинки и таблицы в тексте}{8}{section.5}%
+\contentsline {section}{\numberline {6}Ссылки}{9}{section.6}%
