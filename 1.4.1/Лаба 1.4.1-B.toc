@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{2}{section.2}%
+\contentsline {section}{\numberline {3}Оборудование и эксперементальные погрешности}{4}{section.3}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Предварительные измерения и рассчеты}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Определение погрешности измерения времени}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Опыт по определению ускорения свободного падения}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Опыт по определению приведённой длины маятника}{6}{subsection.4.4}%
