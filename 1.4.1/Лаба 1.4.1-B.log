@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.16)  10 OCT 2021 14:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.16)  14 OCT 2021 04:10
 entering extended mode
 **"./Π›Π°Π±Π° 1.4.1-B.tex"
 (Π›Π°Π±Π° 1.4.1-B.tex
@@ -832,13 +832,13 @@ been already used, duplicate ignored
                    \relax 
 l.83 \newpage
               [1]
-<pictures//fiz.maytnik.png, id=65, 99.37125pt x 188.50426pt>
+<pictures//fiz.maytnik.png, id=70, 99.37125pt x 188.50426pt>
 File: pictures//fiz.maytnik.png Graphic file (type png)
 <use pictures//fiz.maytnik.png>
 Package pdftex.def Info: pictures//fiz.maytnik.png  used on input line 100.
 (pdftex.def)             Requested size: 128.0374pt x 242.90974pt.
  [2 <./pictures//fiz.maytnik.png (PNG copy)>]
-<pictures//prived_dlina.png, id=82, 78.89474pt x 172.84575pt>
+<pictures//prived_dlina.png, id=87, 78.89474pt x 172.84575pt>
 File: pictures//prived_dlina.png Graphic file (type png)
 <use pictures//prived_dlina.png>
 Package pdftex.def Info: pictures//prived_dlina.png  used on input line 164.
@@ -848,7 +848,7 @@ Underfull \hbox (badness 1248) in paragraph at lines 165--165
 \T2A/cmr/m/n/12 πε-με Γώι-γεν-
  []
 
-<pictures//smeschenie_CM.png, id=84, 280.6485pt x 83.1105pt>
+<pictures//smeschenie_CM.png, id=89, 280.6485pt x 83.1105pt>
 File: pictures//smeschenie_CM.png Graphic file (type png)
 <use pictures//smeschenie_CM.png>
 Package pdftex.def Info: pictures//smeschenie_CM.png  used on input line 189.
@@ -859,7 +859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--215
  []
 
 [4]
-<pictures//izmereniya_1.png, id=104, 83.1105pt x 280.6485pt>
+<pictures//izmereniya_1.png, id=110, 83.1105pt x 280.6485pt>
 File: pictures//izmereniya_1.png Graphic file (type png)
 <use pictures//izmereniya_1.png>
 Package pdftex.def Info: pictures//izmereniya_1.png  used on input line 224.
@@ -879,6 +879,10 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 228.
 
 
+LaTeX Warning: Command \cyrg invalid in math mode on input line 234.
+
+Missing character: There is no γ in font cmr12!
+
 LaTeX Warning: Command \cyrs invalid in math mode on input line 248.
 
 Missing character: There is no ρ in font cmr12!
@@ -894,16 +898,19 @@ Missing character: There is no ρ in font cmr12!
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 274.
 
-[5 <./pictures//izmereniya_1.png>]
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 322.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 322.
-
-Missing character: There is no μ in font cmr12!
-Missing character: There is no μ in font cmr12!
-[6] (Π›Π°Π±Π° 1.4.1-B.aux)
+[5 <./pictures//izmereniya_1.png>] [6]
+<pictures//graph-1.png, id=136, 654.64575pt x 295.1025pt>
+File: pictures//graph-1.png Graphic file (type png)
+<use pictures//graph-1.png>
+Package pdftex.def Info: pictures//graph-1.png  used on input line 337.
+(pdftex.def)             Requested size: 512.14963pt x 230.87245pt.
+ [7 <./pictures//graph-1.png (PNG copy)>]
+<pictures//graph-2.png, id=149, 580.569pt x 336.65775pt>
+File: pictures//graph-2.png Graphic file (type png)
+<use pictures//graph-2.png>
+Package pdftex.def Info: pictures//graph-2.png  used on input line 428.
+(pdftex.def)             Requested size: 512.14963pt x 296.98402pt.
+[8 <./pictures//graph-2.png (PNG copy)>] [9] (Π›Π°Π±Π° 1.4.1-B.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -911,36 +918,39 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"Π›Π°Π±Π° 1.4.1-B".out' has not changed.
-(rerunfilecheck)             Checksum: 368BBB05B30434A17AFBCF9691DEA421;2672.
+(rerunfilecheck)             Checksum: AF549F70F37368D1A974E744DF7B993A;2963.
  ) 
 Here is how much of TeX's memory you used:
- 13203 strings out of 478864
- 189047 string characters out of 2858520
- 528702 words of memory out of 3000000
- 30810 multiletter control sequences out of 15000+600000
- 420013 words of font info for 64 fonts, out of 8000000 for 9000
+ 13244 strings out of 478864
+ 189683 string characters out of 2858520
+ 537145 words of memory out of 3000000
+ 30839 multiletter control sequences out of 15000+600000
+ 420350 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,13n,66p,1102b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx144
-0.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati
-1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-arm0800.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\labx1728.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\larm1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\larm2074.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm2488.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb>
-Output written on "Π›Π°Π±Π° 1.4.1-B.pdf" (7 pages, 272154 bytes).
+ <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm0600.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\labx1440.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\lati1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\larm0800.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\labx1728.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\larm1200.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk/lj
+four/lh/lh-t2a/dpi600\larm2488.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Zver\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb>
+Output written on "Π›Π°Π±Π° 1.4.1-B.pdf" (10 pages, 338883 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 585 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 

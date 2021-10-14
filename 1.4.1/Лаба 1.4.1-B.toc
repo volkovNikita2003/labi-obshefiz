@@ -6,4 +6,5 @@
 \contentsline {subsection}{\numberline {4.1}Предварительные измерения и рассчеты}{5}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Определение погрешности измерения времени}{5}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Опыт по определению ускорения свободного падения}{6}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Опыт по определению приведённой длины маятника}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.4}Опыт по определению приведённой длины маятника}{9}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Выводы и обсуждение результатов}{9}{section.5}%
